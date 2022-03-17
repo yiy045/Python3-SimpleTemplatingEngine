@@ -1,0 +1,6 @@
+[[dept_name]] - [[dept_code]]
+[[course_name]]
+[[course_sched]]: [[course_start]] - [[course_end]]
+[[credit_hours]] credit hours achieved
+[[num_students]] students attending
+file created or modified [[date]]
